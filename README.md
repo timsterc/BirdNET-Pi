@@ -1,3 +1,4 @@
+# Please use the main branch
 # BirdNET-Pi
 ![version](https://img.shields.io/badge/version-0.4-blue)
 
