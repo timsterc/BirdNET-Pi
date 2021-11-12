@@ -1,3 +1,4 @@
+# Please use the main branch
 <h1 align="center">
 BirdNET-Pi <img src="https://img.shields.io/badge/version-0.7-blue" />
 </h1>
